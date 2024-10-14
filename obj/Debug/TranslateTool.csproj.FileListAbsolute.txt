@@ -1,0 +1,10 @@
+E:\Work\Work\TranslateTool\bin\Debug\TranslateTool.exe.config
+E:\Work\Work\TranslateTool\bin\Debug\TranslateTool.exe
+E:\Work\Work\TranslateTool\bin\Debug\TranslateTool.pdb
+E:\Work\Work\TranslateTool\obj\Debug\TranslateTool.csproj.AssemblyReference.cache
+E:\Work\Work\TranslateTool\obj\Debug\TranslateTool.Form1.resources
+E:\Work\Work\TranslateTool\obj\Debug\TranslateTool.Properties.Resources.resources
+E:\Work\Work\TranslateTool\obj\Debug\TranslateTool.csproj.GenerateResource.cache
+E:\Work\Work\TranslateTool\obj\Debug\TranslateTool.csproj.CoreCompileInputs.cache
+E:\Work\Work\TranslateTool\obj\Debug\TranslateTool.exe
+E:\Work\Work\TranslateTool\obj\Debug\TranslateTool.pdb
